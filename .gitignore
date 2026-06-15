@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+backend/config.json
+backend/database.sqlite
+.DS_Store
